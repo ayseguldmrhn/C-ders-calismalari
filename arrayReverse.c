@@ -1,3 +1,4 @@
+//yorum
 #include <stdio.h>
 int main()
 {
